@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ваш-ник.github.io/proxy-landing/sitemap.xml
